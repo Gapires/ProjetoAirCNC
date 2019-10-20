@@ -1,6 +1,6 @@
 # ProjetoAirCNC
 
-Projeto realizado durante a semana OmniStack 9.0 da RockeSeat
+Projeto realizado durante a semana OmniStack 9.0 da RocketSeat
 
 Tecnologias Utilizadas:
 
